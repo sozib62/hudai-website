@@ -13,8 +13,7 @@ body {
 
 .container {
     color: rgb(42, 159, 205);
-    padding: 70px;
-    /* padding-top: 60px; */
+    padding: 80px;
     text-align: left;
 }
 
@@ -29,4 +28,26 @@ body {
 .messi-img {
     width: 400px;
     padding-left: 300px;
+}
+
+.blog-container {
+    background-color: rgb(155, 188, 188);
+    height: 500px;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    display: flex;
+}
+
+.blog-text {
+    background-color: tomato;
+    height: 408px;
+    margin: 40px;
+    padding: 20px;
+    box-shadow: white;
+}
+
+.image {
+    margin: 40px;
+    padding: 20px;
 }

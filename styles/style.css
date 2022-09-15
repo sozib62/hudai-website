@@ -1,0 +1,32 @@
+body {
+    /* added font family */
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(78, 75, 75);
+}
+
+.header-continer {
+    display: flex;
+    background-color: rgb(33, 32, 32);
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.container {
+    color: rgb(42, 159, 205);
+    padding: 70px;
+    /* padding-top: 60px; */
+    text-align: left;
+}
+
+.container h1 {
+    font-size: 40px;
+}
+
+.container p {
+    font-size: 20px;
+}
+
+.messi-img {
+    width: 400px;
+    padding-left: 300px;
+}
